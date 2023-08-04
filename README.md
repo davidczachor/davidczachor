@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-My name is David, a recent Software Engineering graduate from Conestoga College. I have a strong interest in full-stack development and a passion for solving real-world problems through code. My skill set includes JavaScript, TypeScript, React.js, Node, C#, Python and SQL.
+My name is David, a recent Software Engineering graduate from Conestoga College. I have a strong interest in full-stack development and a passion for solving real-world problems through code.
 
 *   🌍  I'm based in Waterloo, Ontario, Canada
 *   🖥️  See my portfolio at [czachor.dev](http://czachor.dev)
