@@ -42,3 +42,10 @@ My name is David, a recent Software Engineering graduate from Conestoga College.
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
 
+### Design
+<p align="left">
+<a href="https://affinity.serif.com/en-us/designer/" target="_blank" rel="noreferrer"><img src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-2-020520191502.svg" width="36" height="36" alt="Affinity Designer 2" /></a>
+<a href="https://affinity.serif.com/en-us/photo/" target="_blank" rel="noreferrer"><img src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg" width="36" height="36" alt="Affinity Photo 2" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
