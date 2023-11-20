@@ -4,7 +4,7 @@
 Building web apps is what I do best, and I'm always eager to continue learning. I mostly work with **JavaScript/Typescript, Node.js, React, Next.js, and PostgreSQL**.
 
 - 📍 **Location:** Waterloo, Ontario, Canada  
-- 🖥️ **Freelance:** [czachor.dev](http://czachor.dev)  
+- 🖥️ **Portfolio:** [czachor.dev](http://czachor.dev)  
 - ✉️ **Email:** [david@czachor.dev](mailto:david@czachor.dev)  
 - 🧠 **Deep Dive:** Advanced React.js & Next.js techniques  
 - 🤝 **Collaboration:** Open to teaming up on a web app!
